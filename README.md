@@ -1,4 +1,4 @@
 # testrepo
 ## Editing the file
 
-Its markd
+Its a markdown file in this respitory
